@@ -16,3 +16,6 @@ git status gets status
 git commit -m "add message here"
 git push
 must add and then commit
+git pull pulls the changes from github
+must go to github and merge branches to update main
+all features must be made in new branches, once complete with no issues push and then pull main to check that it is updated
