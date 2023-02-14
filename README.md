@@ -19,3 +19,6 @@ must add and then commit then push
 git pull pulls the changes from github
 must go to github and merge branches to update main
 all features must be made in new branches, once complete with no issues push and then pull main to check that it is updated
+use git branch -d name to delete
+git checkout -b to add new branch
+git checkout to change branch
